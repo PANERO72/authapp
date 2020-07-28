@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false, auth: { CLIENT_DOMAIN: 'dev-et84fbti.eu.auth0.com', CLIENT_ID: 'qfhFU5QJkpQKG26vFP9J4X54CHemdCh4', CALLBACK_URL: 'http://localhost:4200/callback' }
+  production: false, auth: { CLIENT_DOMAIN: '<your-client-domain>', CLIENT_ID: '<your-client-id>', CALLBACK_URL: '<your-callback-url>' }
 };
 
 export const config = {};
